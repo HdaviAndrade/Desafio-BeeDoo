@@ -182,5 +182,4 @@ Erros Esperados: Nenhum.
 ###### link
 https://drive.google.com/file/d/1LrosATKPzszQQRE92f4Y8e05qFL7z8h6/view?usp=sharing
 
-### Etapa 2
-#### Relatório de Erros e Testes
+
